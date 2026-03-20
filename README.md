@@ -29,12 +29,12 @@
     <tr>
       <td><b>F-Notes</b></td>
       <td>A clean web app for taking notes with dark mode and Gemini AI integration.</td>
-      <td><a href="#">View Project</a></td>
+      <td><a href="https://f-notes-beta-v2.netlify.app/">View Project</a></td>
     </tr>
     <tr>
       <td><b>JS Calculator</b></td>
       <td>A responsive calculator built with HTML, CSS, and Vanilla JavaScript.</td>
-      <td><a href="#">View Project</a></td>
+      <td><a href="heartfelt-klepon-2d3f6a.netlify.app">View Project</a></td>
     </tr>
   </tbody>
 </table>
