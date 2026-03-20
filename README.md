@@ -1,6 +1,6 @@
 ## Hi There, 👋
-<h1>I am Felopateer mickeal , </h1>
+<h2>I am Felopateer mickeal , </h2>
 <br>
-Front-End 
+<h3>Front-End</h3> 
 <br>
 HTML , CSS , JS
